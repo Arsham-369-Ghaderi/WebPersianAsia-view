@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="وب پرشین آسیا — Web Persian Asia" width="100%"/>
+<img src="assets/banner.png" alt="وب پرشین آسیا — Web Persian Asia" width="100%"/>
 
 <br/>
 
